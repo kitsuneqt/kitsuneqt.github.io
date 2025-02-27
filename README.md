@@ -10,7 +10,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)  
 
 🔹 **Контакты:**  
-📫 [Email](mailto:твой.email@example.com) | 🏡 [LinkedIn](https://linkedin.com/in/твой_профиль) | 🚀 [GitHub](https://github.com/твой_ник)  
+📫 [Email](aalina.valeevaa@gmail.com) || 🚀 [GitHub](https://github.com/kitsuneqt)  
 
 🔹 **Обо мне:**  
 💡 Интересуюсь backend-разработкой, базами данных и искусственным интеллектом.  
