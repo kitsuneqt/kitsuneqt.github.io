@@ -1,7 +1,8 @@
 # kitsuneqt.github.io
 ### Привет! 👋 Меня зовут Алина  
 🎂 Мне 20 лет | 💻 Я программист  
-
+- 🌍 [Мой сайт / резюме](https://kitsuneqt.github.io/)
+- 
 🔹 **Языки и технологии:**  
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5)  
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3)  
